@@ -6,4 +6,4 @@ Esse projeto é resultado de um desafio que me foi passado:
 
 Utilizei as bibliotecas Pandas e Selenium do Python para cumprir essa tarefa.
 
-OBS: As informações disponibilizadas no arquivo .XLSX são geradas aleatoriamente, não nenhuma informação real!
+OBS: As informações disponibilizadas no arquivo .XLSX são geradas aleatoriamente, não há nenhuma informação real!
